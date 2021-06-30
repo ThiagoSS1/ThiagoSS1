@@ -1,6 +1,6 @@
 <div align="center">
  
- [![Linkedin Badge](https://img.shields.io/badge/Thiago%20De%20Seta-blue?style=plastic&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/thiago-de-seta/)](https://www.linkedin.com/in/thiago-de-seta/) [![HotMail Bagde](https://img.shields.io/badge/thiago_seta#hotmail.com?style=plastic&labelColor=blue&link=mailto:thiago_seta@hotmail.com)](mailto:thiago_seta@hotmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/Thiago%20De%20Seta-blue?style=plastic&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/thiago-de-seta/)](https://www.linkedin.com/in/thiago-de-seta/) [![HotMail Bagde](https://img.shields.io/badge/thiago_seta#hotmail.com?style=plastic&logo=HotmaillabelColor=blue&link=mailto:thiago_seta@hotmail.com)](mailto:thiago_seta@hotmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/ThiagoSS1?style=social)
  
 </div>

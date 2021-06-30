@@ -22,7 +22,6 @@ I'm Thiago De Seta Dos Santos, aspiring back-end developer, I like challenges, I
 - 🤔 I'm looking for helping with solving coding issues!
 - 💬 I am available for work in the home office mode!
 - 📫 How to reach me: thiago_seta@hotmail.com
-- 📝 See my resume by <a  target="blank" href="https://www.canva.com/design/DAEekzRUSOE/9HxYjMwhjXlyLCVIeuEoPg/view?utm_content=DAEekzRUSOE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">clicking here</a>
 
 <br/>
 

@@ -45,7 +45,7 @@ I'm Thiago De Seta Dos Santos, aspiring back-end developer, I like challenges, I
  
  <div  align="center">
  <a href="https://github.com/ThiagoSS1"></a>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoSS1&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoSS1&hide_border=true&theme=nightowl&show_icons=true"/>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSS1&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
 </div>

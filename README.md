@@ -18,7 +18,7 @@ I'm Thiago De Seta Dos Santos, aspiring back-end developer, I like challenges, I
 
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
-- 🔭 I am currently learning and improving Node, Javascript, HTML, CSS and SQL !
+- 🔭 I am currently learning and improving Node, Javascript, HTML and CSS !
 - 🤔 I'm looking for helping with solving coding issues!
 - 💬 I am available for work in the home office mode!
 - 📫 How to reach me: thiago_seta@hotmail.com

@@ -13,7 +13,7 @@
 
 <br/>
 
-I'm Thiago De Seta Dos Santos, aspiring back-end developer, I like challenges, I'm always looking to learn new things.
+I'm Thiago De Seta Dos Santos, i am front-end developer, I like challenges, I'm always looking to learn new things.
 <br/>
 
 

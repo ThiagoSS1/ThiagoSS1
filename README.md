@@ -11,27 +11,24 @@
 
 <br/>
 
-<div display="flex"> 
+<div style="display: inline-block; width: 50%; vertical-align: top;">
 
-I'm Thiago De Seta Dos Santos, i am front-end developer, I like challenges, I'm always looking to learn new things.
-<br/>
-
-
-- :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
+ I'm Thiago De Seta Dos Santos, i am front-end developer, I like challenges, I'm always looking to learn new things.
+ 
+ - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
 - 🔭 I am currently learning and improving Node, Javascript, HTML and CSS !
 - 🤔 I'm looking for helping with solving coding issues!
 - 💬 I am available for work in the home office mode!
 - 📫 How to reach me: thiago_seta@hotmail.com
-
-<br/>
- 
- <div>
- <a href="https://app.daily.dev/1ThiagoSS"><img src="https://api.daily.dev/devcards/7130261b5a01441189e79b0571066518.png?r=ry3" width="400" alt="Thiago De Seta's Dev Card"/></a>
- </div>
-
+<br/> 
 </div>
 
+<div style="display: inline-block; width: 50%; vertical-align: top;">
 
+ <a href="https://app.daily.dev/1ThiagoSS"><img src="https://api.daily.dev/devcards/7130261b5a01441189e79b0571066518.png?r=ry3" width="400" alt="Thiago De Seta's Dev Card"/></a>
+</div>
+
+<br/>
 
 <div align="center"> 
  

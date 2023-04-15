@@ -11,6 +11,8 @@
 
 <br/>
 
+<div display="flex"> 
+
 I'm Thiago De Seta Dos Santos, i am front-end developer, I like challenges, I'm always looking to learn new things.
 <br/>
 
@@ -22,6 +24,14 @@ I'm Thiago De Seta Dos Santos, i am front-end developer, I like challenges, I'm 
 - 📫 How to reach me: thiago_seta@hotmail.com
 
 <br/>
+ 
+ <div>
+ <a href="https://app.daily.dev/1ThiagoSS"><img src="https://api.daily.dev/devcards/7130261b5a01441189e79b0571066518.png?r=ry3" width="400" alt="Thiago De Seta's Dev Card"/></a>
+ </div>
+
+</div>
+
+
 
 <div align="center"> 
  

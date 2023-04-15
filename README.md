@@ -29,9 +29,11 @@ I'm Thiago De Seta Dos Santos, i am front-end developer, I like challenges, I'm 
  
  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Code-Javascript&&NodeJs&&-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
  
 </div>
+
+
+<a href="https://app.daily.dev/1ThiagoSS"><img src="https://api.daily.dev/devcards/7130261b5a01441189e79b0571066518.png?r=ry3" width="400" alt="Thiago De Seta's Dev Card"/></a>
 
 
 <br/>

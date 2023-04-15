@@ -46,7 +46,7 @@
  
   <br><br>
  
- <div style="display: inline-block; width: 50%; vertical-align: top;">
+ <div align="center">
 
  <a href="https://app.daily.dev/1ThiagoSS"><img src="https://api.daily.dev/devcards/7130261b5a01441189e79b0571066518.png?r=ry3" width="400" alt="Thiago De Seta's Dev Card"/></a>
 </div>

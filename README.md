@@ -9,7 +9,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+<a href="https://app.daily.dev/1ThiagoSS"><img src="https://api.daily.dev/devcards/7130261b5a01441189e79b0571066518.png?r=ry3" width="400" alt="Thiago De Seta's Dev Card"/></a>
 
 <br/>
 
@@ -33,7 +33,7 @@ I'm Thiago De Seta Dos Santos, i am front-end developer, I like challenges, I'm 
 </div>
 
 
-<a href="https://app.daily.dev/1ThiagoSS"><img src="https://api.daily.dev/devcards/7130261b5a01441189e79b0571066518.png?r=ry3" width="400" alt="Thiago De Seta's Dev Card"/></a>
+
 
 
 <br/>
